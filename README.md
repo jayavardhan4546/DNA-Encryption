@@ -46,7 +46,7 @@ This project demonstrates encryption and decryption using DNA sequences. It foll
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/dna-encryption.git
+   git clone https://github.com/jayavardhan4546/DNA-Encryption
    cd dna-encryption
    ```
 
